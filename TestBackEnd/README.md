@@ -61,8 +61,8 @@ Antes de iniciar, certifique-se de ter os seguintes pré-requisitos instalados:
 
 - **Swagger HTTPS:** [http://localhost:7201](https://localhost:7201/swagger/index.html)
 - **RabbitMQ:** [http://localhost:15672](http://localhost:15672)
-  - **Usuário padrão:** `admin`
-  - **Senha padrão:** `admin@123`
+  - **Usuário padrão:** `user123`
+  - **Senha padrão:** `user@123`
 - **minIO:** [http://localhost:9001](http://localhost:9001)
   - **Usuário padrão:** `admin`
   - **Senha padrão:** `admin123`
