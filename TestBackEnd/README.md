@@ -59,7 +59,7 @@ Antes de iniciar, certifique-se de ter os seguintes pré-requisitos instalados:
 
 ## Acessando os Serviços
 
-- **Swagger HTTPS:** [http://localhost:7201](https://localhost:7201/swagger/index.html)
+- **Swagger HTTPS:** [http://localhost:7282](https://localhost:7282/swagger/index.html)
 - **RabbitMQ:** [http://localhost:15672](http://localhost:15672)
   - **Usuário padrão:** `user123`
   - **Senha padrão:** `user@123`
